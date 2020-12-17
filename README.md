@@ -19,3 +19,5 @@ The review contains good practice guidance for assessing project impacts accordi
 - Soil erosion
 - Afforestation and reforestation
 - Cropland and crop type
+
+The Open Source Guide to Earth Observation in Development Cooperation will be available for download here soon.
