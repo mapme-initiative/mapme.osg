@@ -1,5 +1,5 @@
-# mapme.osg
-Open Source Guide to Earth Observation in Development Cooperation - Methods and Guidance
+# Open Source Guide to Earth Observation in Development Cooperation
+Methods and Guidance
 
 **About**
 
