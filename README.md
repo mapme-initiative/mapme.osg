@@ -1,5 +1,5 @@
 # Open Source Guide to Earth Observation in Development Cooperation
-Methods and Guidance
+![mapme-logo](assets/mapme-logo.png)
 
 
 **About**
@@ -20,7 +20,7 @@ The review contains good practice guidance for assessing project impacts accordi
 | Individual tree crowns    | Defined as the top part of the tree, which features branches that grow out from the main trunk and support the various leaves used for photosynthesis   |
 | Soil erosion    | Deforestation-induced erosion (especially gully erosion, i.e. removal of soil along drainage lines by surface water runoff)  |
 | Afforestation and reforestation    | Establishment of a forest or stand of trees (forestation) in an area where there was no previous tree cover (e.g. due to previous deforestation, or conversion of land use) |
-| Cropland and crop type    | text |
+| Cropland and crop type    | Defined as an indicator for mapping cultivated areas, i.e. plowed and sown, and for subsequently estimating cropland and/or crop type acreage |
 
 **Who should read this document?**
 This document is written for experts in the field of project evaluation. It assumes that the reader already has some experience with GIS and a basic understanding of remote sensing, ideally in the form of a concrete application in the context of project evaluation. 
