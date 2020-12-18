@@ -1,4 +1,5 @@
 # Open Source Guide to Earth Observation in Development Cooperation
+
 ![mapme-logo](assets/mapme-logo.png)
 
 
