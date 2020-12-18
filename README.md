@@ -1,15 +1,12 @@
-# Open Source Guide to Earth Observation in Development Cooperation
+# Open Source Guide to Earth Observation in Development Cooperation  <img src='assets/mapme-logo.png' align="right" height="138.5" />
 
-![mapme-logo](assets/mapme-logo.png)
-
-
-**About**
+## About
 While there are very sophisticated methods in remote sensing science, the approaches must be practical and easy to implement from the point of view of the users. The focus of the Open Source Guide to Earth Observation in Development Cooperation is explicitely for the application of remote sensing in project evaluation.
 
 This is designed as a systematic review that shows how a set of dedicated project indicators can be assessed and mapped by means of analysing remote sensing data, using geographic information systems (GIS) and non-proprietary programming languages (e.g. R tools or Python), and by applying existing, globally available and preferably free data (in particular satellite images) and products (i.e. information derived from satellite images). 
 
 
-**Content**
+## Content
 The review contains good practice guidance for assessing project impacts according to different project evaluation indicators.
 
 | Indicator          | Description                                                  |
@@ -23,7 +20,7 @@ The review contains good practice guidance for assessing project impacts accordi
 | Afforestation and reforestation    | Establishment of a forest or stand of trees (forestation) in an area where there was no previous tree cover (e.g. due to previous deforestation, or conversion of land use) |
 | Cropland and crop type    | Defined as an indicator for mapping cultivated areas, i.e. plowed and sown, and for subsequently estimating cropland and/or crop type acreage |
 
-**Who should read this document?**
+## Who should read this document?
 This document is written for experts in the field of project evaluation. It assumes that the reader already has some experience with GIS and a basic understanding of remote sensing, ideally in the form of a concrete application in the context of project evaluation. 
 Although remote sensing terms are explained and defined, it does not replace reading a general introduction to remote sensing. Please also note that although many recent studies in this field are cited for each indicator, this document is not meant to be a rigorous scientific review, nor does it repace other good practice guides available
 
