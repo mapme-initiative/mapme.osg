@@ -1,7 +1,7 @@
 # Open Source Guide to Earth Observation in Development Cooperation  <img src='assets/mapme-logo.png' align="right" height="138.5" />
 
 ## About
-While there are very sophisticated methods in remote sensing science, the approaches must be practical and easy to implement from the point of view of the users. The focus of the Open Source Guide to Earth Observation in Development Cooperation is explicitely for the application of remote sensing in project evaluation.
+While there are sophisticated methods in remote sensing science, the approaches must be practical and easy to implement from the point of view of the users. The focus of the Open Source Guide to Earth Observation in Development Cooperation is explicitely for the application of remote sensing in project evaluation.
 
 This is designed as a systematic review that shows how a set of dedicated project indicators can be assessed and mapped by means of analysing remote sensing data, using geographic information systems (GIS) and non-proprietary programming languages (e.g. R tools or Python), and by applying existing, globally available and preferably free data (in particular satellite images) and products (i.e. information derived from satellite images). 
 
