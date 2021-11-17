@@ -5,6 +5,8 @@ While there are sophisticated methods in remote sensing science, the approaches 
 
 This is designed as a systematic review that shows how a set of dedicated project indicators can be assessed and mapped by means of analysing remote sensing data, using geographic information systems (GIS) and non-proprietary programming languages (e.g. R tools or Python), and by applying existing, globally available and preferably free data (in particular satellite images) and products (i.e. information derived from satellite images). 
 
+The Open Source Guide can be downloaded as PDF [here](https://github.com/mapme-initiative/mapme.osg/assets/MAPME_OpenSourceGuide_v0091.pdf).
+
 
 ## Content
 The review contains good practice guidance for assessing project impacts according to different project evaluation indicators.
